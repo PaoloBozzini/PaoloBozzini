@@ -10,7 +10,9 @@ _________________________
 - CSS (including grid and flexbox)
 - JAVASCRIPT (ES6)
 - TYPESCRIPT
-- REACT
+- REACT JS
+- ANGULAR JS
+- VUE JS
 - SASS
 - NODE JS
 - MONGO DB
@@ -22,8 +24,7 @@ _________________________
 _________________________
 - DOCKER AND KUBERNETES 
 - REACT NATIVE
-- WEBPACK
-- PHP
+- IONIC
 
 #### What I will learn:
 _________________________
